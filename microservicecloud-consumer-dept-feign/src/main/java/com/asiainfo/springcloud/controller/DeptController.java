@@ -12,7 +12,8 @@ import java.util.List;
 
 @RestController
 public class DeptController {
-    
+
+
     @Autowired
     private DeptClientService deptClientService;
 
